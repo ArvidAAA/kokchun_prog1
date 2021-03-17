@@ -22,7 +22,7 @@
   - Uppgift 04 - [Dictionary_04.py](https://github.com/ArvidAnderson/kokchun_prog1/blob/main/Dictionary_04.py)
 * **Dictionary**
   
-  * Uppgift 01 - [Numpy_01.py]((https://github.com/ArvidAnderson/kokchun_prog1/blob/main/numpy_01.py)
+  * Uppgift 01 - [Numpy_01.py](https://github.com/ArvidAnderson/kokchun_prog1/blob/main/numpy_01.py)
   
   * Uppgift 02 - [Numpy_02.py](https://github.com/ArvidAnderson/kokchun_prog1/blob/main/numpy_02.py)
   
