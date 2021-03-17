@@ -22,14 +22,14 @@
   - Uppgift 04 - [Dictionary_04.py](https://github.com/ArvidAnderson/kokchun_prog1/blob/main/Dictionary_04.py)
 * **Dictionary**
   
-  * Uppgift 01 - [Numpy_01.py]([kokchun_prog1/Dictionary_04.py at main · ArvidAnderson/kokchun_prog1 · GitHub](https://github.com/ArvidAnderson/kokchun_prog1/blob/main/Nump.py))
+  * Uppgift 01 - [Numpy_01.py](https://github.com/ArvidAnderson/kokchun_prog1/blob/main/numpy_01.py)
   
-  * Uppgift 02 - [Numpy_02.py]([kokchun_prog1/Dictionary_04.py at main · ArvidAnderson/kokchun_prog1 · GitHub](https://github.com/ArvidAnderson/kokchun_prog1/blob/main/numpy_02.py))
+  * Uppgift 02 - [Numpy_02.py](https://github.com/ArvidAnderson/kokchun_prog1/blob/main/numpy_02.py)
   
-  * Uppgift 03 - [Numpy_03.py]([kokchun_prog1/Dictionary_04.py at main · ArvidAnderson/kokchun_prog1 · GitHub](https://github.com/ArvidAnderson/kokchun_prog1/blob/main/numpy_03.py))
+  * Uppgift 03 - [Numpy_03.py](https://github.com/ArvidAnderson/kokchun_prog1/blob/main/numpy_03.py)
   
-  * Uppgift 04 - [Numpy_04.py]([kokchun_prog1/Dictionary_04.py at main · ArvidAnderson/kokchun_prog1 · GitHub](https://github.com/ArvidAnderson/kokchun_prog1/blob/main/numpy_03.py))
+  * Uppgift 04 - [Numpy_04.py](https://github.com/ArvidAnderson/kokchun_prog1/blob/main/numpy_03.py)
   
-  * Uppgift 05 - [Numpy_05.py]([kokchun_prog1/Dictionary_04.py at main · ArvidAnderson/kokchun_prog1 · GitHub](https://github.com/ArvidAnderson/kokchun_prog1/blob/main/numpy_05.py))
+  * Uppgift 05 - [Numpy_05.py](https://github.com/ArvidAnderson/kokchun_prog1/blob/main/numpy_05.py)
 
     
