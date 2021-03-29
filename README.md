@@ -1,7 +1,5 @@
 # Arvid Anderson TE19D kockhun_prog_1
 
-#### Gjort tre uppgifter på respektive område
-
 - **Felhantering:**
   
   - Uppgift 02 - [Felhantering_02.py](https://github.com/ArvidAnderson/kokchun_prog1/blob/main/Felhantering_02.py "Felhantering_02.py")
