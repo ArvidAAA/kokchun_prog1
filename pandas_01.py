@@ -1,7 +1,6 @@
 """Kör filen, funktionen C ritar upp diagramet och använder sig utav 
 uppgift/funktion a och b för att få värden till diagramet"""
 
-
 import matplotlib.pyplot as plt
 import pandas
 
