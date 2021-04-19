@@ -1,5 +1,7 @@
 # Arvid Anderson TE19D kockhun_prog_1
 
+[Programmeringsovningshafte.pdf](https://github.com/NTI-Kronhus/TE19CD-PRRPRR01/blob/master/Programmeringsovningshafte.pdf)
+
 - **Felhantering:**
   
   - Uppgift 02 - [Felhantering_02.py](https://github.com/ArvidAnderson/kokchun_prog1/blob/main/Felhantering_02.py "Felhantering_02.py")
@@ -30,4 +32,8 @@
   
   * Uppgift 05 - [Numpy_05.py](https://github.com/ArvidAnderson/kokchun_prog1/blob/main/numpy_05.py)
 
-    
+* **Pandas**
+  
+  * Uppgift 01 - [Pandas_01.py](https://github.com/ArvidAnderson/kokchun_prog1/blob/main/pandas_01.py)
+  
+  * Uppgift 02 - [Pandas_02.py](https://github.com/ArvidAnderson/kokchun_prog1/blob/main/pandas_02.py)
