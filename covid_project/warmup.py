@@ -1,3 +1,5 @@
+# Arvid Anderson TE19D https://github.com/arvidanderson
+
 import pandas as pd
 import matplotlib.pyplot as plt
 from data_files import *
